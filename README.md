@@ -1,2 +1,6 @@
 # ASIR-UD6-Streaming
-Apuntes para el examen de ASIR
+
+## Índice
+- Conceptos básicos
+
+Repositorio de apuntes personales para examen.

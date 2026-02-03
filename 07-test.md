@@ -9,7 +9,6 @@ c) El streaming solo consume el ancho de banda usado ✅
 d) El streaming siempre es multicast
 
 
-
 2. En una topología unicast, si hay 50 usuarios:
 
 a) El servidor envía el stream una vez

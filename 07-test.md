@@ -1,9 +1,12 @@
 1. ¿Qué diferencia principal hay entre descarga directa y streaming?
 
-  a) El streaming descarga el archivo completo
-  b) La descarga directa no usa buffer
-  c) El streaming solo consume el ancho de banda usado ✅
-  d) El streaming siempre es multicast
+a) El streaming descarga el archivo completo
+
+b) La descarga directa no usa buffer
+
+c) El streaming solo consume el ancho de banda usado ✅
+
+d) El streaming siempre es multicast
 
 3. En una topología unicast, si hay 50 usuarios:
 a) El servidor envía el stream una vez

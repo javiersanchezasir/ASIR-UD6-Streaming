@@ -9,7 +9,8 @@ c) El streaming solo consume el ancho de banda usado ✅
 d) El streaming siempre es multicast
 
 
-3. En una topología unicast, si hay 50 usuarios:
+
+2. En una topología unicast, si hay 50 usuarios:
 
 a) El servidor envía el stream una vez
 
@@ -20,7 +21,7 @@ c) Se usa una dirección multicast
 d) Solo funciona en redes internas
 
 
-4. ¿Cuál es la principal desventaja del unicast?
+3. ¿Cuál es la principal desventaja del unicast?
 
 a) Alta latencia
 
@@ -31,7 +32,7 @@ c) No atraviesa firewalls
 d) Usa UDP
 
 
-5. ¿Qué rango de direcciones se usa para multicast?
+4. ¿Qué rango de direcciones se usa para multicast?
 
 a) 192.168.0.0 – 192.168.255.255
 
@@ -42,7 +43,7 @@ c) 224.0.0.0 – 239.255.255.255 ✅
 d) 127.0.0.0 – 127.255.255.255
 
 
-6. ¿Por qué el multicast no se usa en Internet?
+5. ¿Por qué el multicast no se usa en Internet?
 
 a) Consume demasiado ancho de banda
 
@@ -53,7 +54,7 @@ c) Los routers suelen bloquearlo ✅
 d) Usa TCP
 
 
-7. ¿Qué característica define al protocolo TCP?
+6. ¿Qué característica define al protocolo TCP?
 
 a) Baja latencia
 
@@ -64,7 +65,7 @@ c) Garantiza entrega de datos ✅
 d) No atraviesa firewalls
 
 
-8. ¿Por qué UDP es mejor para videollamadas?
+7. ¿Por qué UDP es mejor para videollamadas?
 
 a) Tiene más calidad
 
@@ -75,7 +76,7 @@ c) Retransmite paquetes
 d) Usa HTTP
 
 
-9. ¿Qué es el jitter?
+8. ¿Qué es el jitter?
 
 a) Retraso fijo de red
 
@@ -86,7 +87,7 @@ c) Tamaño del buffer
 d) Ancho de banda disponible
 
 
-10. ¿Qué ocurre si el jitter supera el tamaño del buffer?
+9. ¿Qué ocurre si el jitter supera el tamaño del buffer?
 
 a) Mejora la calidad
 
@@ -97,7 +98,7 @@ c) Se producen cortes de audio/vídeo ✅
 d) Se reduce la latencia
 
 
-11. A mayor tamaño de buffer:
+10. A mayor tamaño de buffer:
 
 a) Menos latencia
 
@@ -108,7 +109,7 @@ c) Más latencia ✅
 d) Más jitter
 
 
-12. ¿Qué es el Burst-on-Connect en Icecast?
+11. ¿Qué es el Burst-on-Connect en Icecast?
 
 a) Compresión de audio
 
@@ -119,7 +120,7 @@ c) Envío rápido inicial para llenar el buffer ✅
 d) Uso de UDP
 
 
-13. ¿Qué protocolo utiliza Icecast2?
+12. ¿Qué protocolo utiliza Icecast2?
 
 a) RTSP
 
@@ -130,7 +131,7 @@ c) ICY sobre HTTP/TCP ✅
 d) WebRTC
 
 
-14. ¿Qué característica tiene el HTTP adaptativo (HLS/DASH)?
+13. ¿Qué característica tiene el HTTP adaptativo (HLS/DASH)?
 
 a) Flujo continuo
 
@@ -141,7 +142,7 @@ c) Uso de chunks y calidad adaptativa ✅
 d) Latencia inferior a 1 segundo
 
 
-15. ¿Qué protocolo se usa principalmente para enviar vídeo desde OBS al servidor?
+14. ¿Qué protocolo se usa principalmente para enviar vídeo desde OBS al servidor?
 
 a) RTSP
 
@@ -152,7 +153,7 @@ c) RTMP ✅
 d) HLS
 
 
-16. ¿Qué protocolo se usa habitualmente en cámaras IP?
+15. ¿Qué protocolo se usa habitualmente en cámaras IP?
 
 a) HLS
 
@@ -163,7 +164,7 @@ c) ICY
 d) DASH
 
 
-17. ¿Qué plataforma usa HTTP adaptativo?
+16. ¿Qué plataforma usa HTTP adaptativo?
 
 a) Zoom
 
@@ -174,7 +175,7 @@ c) Netflix ✅
 d) Skype
 
 
-18. ¿Qué es un códec?
+17. ¿Qué es un códec?
 
 a) Un contenedor de vídeo
 
@@ -185,7 +186,7 @@ c) Un algoritmo de compresión/descompresión ✅
 d) Un servidor de streaming
 
 
-19. ¿Cuál es un códec de audio con pérdida?
+18. ¿Cuál es un códec de audio con pérdida?
 
 a) WAV
 
@@ -196,7 +197,7 @@ c) MP3 ✅
 d) AIFF
 
 
-20. ¿Cuál es la fórmula correcta del ancho de banda total en unicast?
+19. ¿Cuál es la fórmula correcta del ancho de banda total en unicast?
 
 a) BW = usuarios / bitrate
 
@@ -207,7 +208,7 @@ c) BW = jitter + buffer
 d) BW = fps × resolución
 
 
-21. Si un streaming tiene un bitrate de 192 kbps y hay 10 usuarios, el consumo total es:
+20. Si un streaming tiene un bitrate de 192 kbps y hay 10 usuarios, el consumo total es:
 
 a) 192 kbps
 
@@ -218,7 +219,7 @@ c) 19.2 Mbps
 d) 192 Mbps
 
 
-22. ¿Qué topología es poco escalable?
+21. ¿Qué topología es poco escalable?
 
 a) Multicast
 
@@ -229,7 +230,7 @@ c) Broadcast
 d) Anycast
 
 
-23. ¿Qué protocolo usa chunks y calidad adaptativa?
+22. ¿Qué protocolo usa chunks y calidad adaptativa?
 
 a) ICY
 
@@ -240,10 +241,12 @@ c) HLS ✅
 d) RTSP
 
 
-24. A mayor buffer:
+23. A mayor buffer:
 
 a) Menos latencia
 
 b) Más cortes
+
 c) Más latencia ✅
+
 d) Más jitter

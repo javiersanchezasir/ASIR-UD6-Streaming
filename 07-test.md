@@ -249,3 +249,15 @@ b) Más cortes
 c) Más latencia ✅
 
 d) Más jitter
+
+
+24. ¿En qué consiste la mecánica del protocolo HLS (HTTP Live Streaming)?
+Pregunta 1Resposta
+
+a) Es un protocolo P2P que no requiere servidor centralizado.
+
+b) Se utiliza exclusivamente para cámaras de seguridad mediante UDP.
+
+c) El servidor trocea el fichero en pequeños fragmentos o chunks de 2 a 10 segundos.
+
+d) Se abre una conexión TCP y el servidor envía un flujo continuo de bytes sin parar.

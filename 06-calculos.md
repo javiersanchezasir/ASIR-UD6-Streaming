@@ -2,7 +2,7 @@
 
 Fórmula:
 Peso = Frecuencia × Bits × Canales × Segundos / 8
-
+Convertimos  a MB -> resultado / 1,048,576 -> X
 
 
 Ejemplo:

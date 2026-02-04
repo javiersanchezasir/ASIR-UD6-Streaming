@@ -11,6 +11,10 @@ Ejemplo:
 44100 × 16 × 2 × 180 / 8 ≈ 31,7 MB
 
 
+##Calculo de bitrate de audio PCM
+
+Bitrate = Frecuencia de muestreo × Bits por muestra × Canales
+
 
 ## Ancho de banda en streaming
 

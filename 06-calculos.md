@@ -14,7 +14,7 @@ Ejemplo:
 ## Calculo de bitrate de audio PCM
 
 Bitrate = Frecuencia de muestreo × Bits por muestra × Canales
-
+48,000 × 12 = 576,000 bits/s = 576 kbps
 
 ## Ancho de banda en streaming
 

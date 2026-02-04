@@ -37,3 +37,10 @@ Ejemplo:
 ## Vídeo sin compresión
 
 Bitrate = resolución × fps × profundidad de color
+
+
+
+## Calculo de número de oyentes
+
+Primero pasamos de 10 Mbps a kbps = 10.000
+Segundo dividimos 10.000 / 192 = 
